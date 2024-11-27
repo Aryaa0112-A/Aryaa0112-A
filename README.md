@@ -3,7 +3,7 @@
 <h3 align="center">Hello, my name is Arya Dillah. I am currently an Information Systems student at Bina Sarana Informatika University, Faculty of Information Technology, located in Tangerang City, Indonesia. My focus is on Fullstack development, where I enjoy working with both front-end and back-end technologies to create comprehensive and functional web applications.</h3>
 <div align="center">
   
-[![](https://img.shields.io/badge/-@ZXINNATTAPAT-%23181717?style=flat-square&logo=github)](https://github.com/ZXINNATTAPAT)
+[![](https://img.shields.io/badge/-@ZXINNATTAPAT-%23181717?style=flat-square&logo=github)](https://github.com/Aryaa0112-A)
 [![](https://img.shields.io/badge/-@Mywebsite-%23000000?style=flat-square)](https://aryadillah.vercel.app/)
 
 </div>
